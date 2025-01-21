@@ -1,10 +1,11 @@
 # 第三屆台灣三麻名人戰 頭銜戰對局牌譜
 
+<div align=center>
 <img src="./pic/icon.png" 
         alt="Picture" 
         width="150" 
-        height="150" 
-        style="display: block; margin: 0 auto" />
+        height="150" />
+</div>
 
 本repo存放經採譜並且轉檔為.mjlog格式的頭銜戰對局牌譜，須使用**天鳳Windows版**進行開啟。若為非Windows使用者，目前.mjlog暫不支援Windows版，請改行閱讀[紙本牌譜](https://cdn.discordapp.com/attachments/1149733468364886136/1331302081159757895/b47221a0c233c4f8.pdf)。
 
@@ -32,9 +33,11 @@
 
 若未安裝轉區軟體，可於下方螢幕截圖參照對應按鈕位置
 
-[img]
+![img](./pic/tut1.png)
 
-[img]
+![img](./pic/tut2.png)
+
+![img](./pic/tut3.png)
 
 ### 顯示玩家名稱(可選)
 
