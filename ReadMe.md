@@ -7,7 +7,7 @@
         height="150" />
 </div>
 
-本repo存放經採譜並且轉檔為.mjlog格式的頭銜戰對局牌譜，須使用**天鳳Windows版**進行開啟。若為非Windows使用者，目前.mjlog暫不支援Windows版，請改行閱讀[紙本牌譜](https://cdn.discordapp.com/attachments/1149733468364886136/1331302081159757895/b47221a0c233c4f8.pdf?ex=67911f2e&is=678fcdae&hm=e95409759c25b14971805083a9c41f17486bfe70c2050fbd940c508f3fe7600c&)。
+本repo存放經採譜並且轉檔為.mjlog格式的頭銜戰對局牌譜，須使用**天鳳Windows版**進行開啟。若為非Windows使用者，目前.mjlog暫不支援Windows版，請改行閱讀[紙本牌譜]([https://cdn.discordapp.com/attachments/1149733468364886136/1331302081159757895/b47221a0c233c4f8.pdf?ex=67911f2e&is=678fcdae&hm=e95409759c25b14971805083a9c41f17486bfe70c2050fbd940c508f3fe7600c&](https://github.com/Ticcy0807/TW3PMJS_S3/blob/main/%E7%AC%AC%E4%B8%89%E5%B1%86%E5%8F%B0%E7%81%A3%E4%B8%89%E9%BA%BB%E5%90%8D%E4%BA%BA%E6%88%B0%E9%A0%AD%E9%8A%9C%E6%88%B0%E7%89%8C%E8%AD%9C.pdf))。
 
 另記分表、簡章及直播紀錄請參見右方連結。[計分表點我](https://docs.google.com/spreadsheets/d/1bFuefzjcWxiZ1rb29PK3fgdZE713nEdgo8pEJ20eYZU)，[簡章點我](https://drive.google.com/file/d/14kP23hqaxPGX0HM86dDshcPOdGDw37c8)，[直播紀錄點我](https://www.youtube.com/live/n_WNkw-Xmwk)。
 
